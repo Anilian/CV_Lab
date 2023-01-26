@@ -42,7 +42,7 @@ if __name__ == '__main__':
     good = []
     good_without_list = []
     for m,n in matches:
-        if m.distance < 0.25*n.distance: #здесь можно изменять количество лучших точек
+        if m.distance < 0.05*n.distance: #здесь можно изменять количество лучших точек
             good.append([m])
             good_without_list.append(m)
     print("Total Keypoints after sorting: ", len(good))
