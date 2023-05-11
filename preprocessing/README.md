@@ -1,1 +1,1 @@
-
+It is shot at a high frame rate per second and does not always contain debris. It is required to constantly delete unnecessary photos that have a blank tape, so that the memory on the computer does not run out quickly. A resnet34 model was trained in the file [Classif_delete.ipynb]([https://github.com/Anilian/CV_Lab/blob/main/preprocessing/Classif_delete.ipynb]) on its own dataset containing 500 photos with two classes.
